@@ -15,7 +15,7 @@ eureka:
       defaultZone: http://yangmi:ym@eureka-dev.com:7001/eureka
 ---
 server:
-  port: 8202
+  port: 8102
 spring:
   profiles: beta
   application: 
