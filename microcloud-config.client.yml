@@ -8,7 +8,7 @@ server:
 spring:
   profiles: dev
   application: 
-    name: microcloud-config-client1
+    name: microcloud-config-client
 eureka: 
   client:
     service-url:
